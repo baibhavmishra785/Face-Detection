@@ -1,4 +1,4 @@
-rom setuptools import find_packages, setup
+from setuptools import find_packages, setup
 
 # Declaring variables for setup functions
 PROJECT_NAME = "Face Authenticator"
