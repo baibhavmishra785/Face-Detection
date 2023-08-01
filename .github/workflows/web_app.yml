@@ -1,4 +1,4 @@
-name: Deploy Application Docker Image to Azure Web App Service
+ame: Deploy Application Docker Image to Azure Web App Service
 
 on:
   push:
