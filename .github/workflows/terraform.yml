@@ -1,4 +1,4 @@
-ame: Apply changest to Infrastructure
+name: Apply changest to Infrastructure
 
 on:
   push:
