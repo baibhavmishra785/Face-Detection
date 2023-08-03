@@ -1,4 +1,4 @@
-rom face_auth.config.database import MongodbClient
+from face_auth.config.database import MongodbClient
 from face_auth.constant.database_constants import USER_COLLECTION_NAME
 from face_auth.entity.user import User
 
