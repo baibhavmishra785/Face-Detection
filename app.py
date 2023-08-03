@@ -1,4 +1,4 @@
-import uvicorn
+mport uvicorn
 from fastapi import FastAPI
 from starlette import status
 from starlette.middleware.sessions import SessionMiddleware
