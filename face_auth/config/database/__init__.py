@@ -1,4 +1,4 @@
-mport pymongo
+import pymongo
 
 from face_auth.constant.database_constants import (
     DATABASE_NAME,
