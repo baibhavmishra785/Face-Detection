@@ -1,4 +1,4 @@
-variable "faceapp_acr_name" {
+ariable "faceapp_acr_name" {
   default = "faceappACR"
   type    = string
 }
