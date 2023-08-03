@@ -1,4 +1,4 @@
-lass Embedding:
+class Embedding:
     """Entity class for user embedding"""
 
     def __init__(self, UUID: str = None, user_embed=None) -> None:
