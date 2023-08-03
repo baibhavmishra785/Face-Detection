@@ -1,4 +1,4 @@
-pandas==1.4.4
+andas==1.4.4
 pymongo==4.2.0
 fastapi==0.83.0
 python-jose==3.3.0
