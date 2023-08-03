@@ -1,4 +1,4 @@
-variable "faceapp_resource_group_name" {
+ariable "faceapp_resource_group_name" {
   type    = string
   default = "faceappRG"
 }
