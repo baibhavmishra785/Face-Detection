@@ -1,4 +1,4 @@
-odule "resource_group" {
+module "resource_group" {
   source = "../resource_group"
 }
 
