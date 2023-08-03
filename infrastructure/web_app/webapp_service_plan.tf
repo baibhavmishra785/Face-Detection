@@ -1,4 +1,4 @@
-resource "random_id" "random_string_for_web_app_service_plan" {
+esource "random_id" "random_string_for_web_app_service_plan" {
   byte_length = 8
 }
 
