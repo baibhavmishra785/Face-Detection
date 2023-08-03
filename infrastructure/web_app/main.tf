@@ -1,4 +1,4 @@
-module "container_registry" {
+odule "container_registry" {
   source = "../container_registry"
 }
 
