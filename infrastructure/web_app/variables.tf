@@ -1,4 +1,4 @@
-variable "web_app_name" {
+ariable "web_app_name" {
   default = "faceappsethu"
   type    = string
 }
