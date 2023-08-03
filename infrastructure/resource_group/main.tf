@@ -1,4 +1,4 @@
-resource "random_id" "random_string_for_rg" {
+esource "random_id" "random_string_for_rg" {
   byte_length = 8
 }
 
